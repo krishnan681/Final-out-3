@@ -114,6 +114,11 @@ body {
         font-size: 2px;
     }
  }
+@media (max-width: 576px) {
+    .buttons a{
+        font-size: 2px;
+    }
+ }
 
 
 
