@@ -108,6 +108,15 @@ body {
     margin-right: 10px;
     color: #ffffff;
 }
+
+@media (max-width: 575.98px) {
+    .buttons a{
+        font-size: 2px;
+    }
+ }
+
+
+
 @media (max-width: 768px) {
     .header h1 {
         font-size: 36px;
@@ -119,6 +128,9 @@ body {
         font-size: 28px;
         padding: 8px 16px;
     }
+
+
+
     .contacts h2 {
         font-size: 28px;
     }
